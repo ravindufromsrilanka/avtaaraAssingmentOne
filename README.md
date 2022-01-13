@@ -1,2 +1,10 @@
-# avtaaraAssingmentOne
-This is the first assignment that avtaar given to us complete. Avtaar is a career discovery product that provides students with opportunities to explore their childhood wish-list, personality, values and select professions that most closely meet their ikigai. 
+#PROGRAM TO GENERATE UNIQUE ID AND SUBMIT A GITHUB PR
+
+##Description
+
+Crate a program/page to take username as input or as an api param, and display/return the following details
+
+1)Random Generated ID ->Different Every time;
+2)Name that comes as a param
+3)Date and Time of the request
+4)Upload the code in public repository on Github.
